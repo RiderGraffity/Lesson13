@@ -2,7 +2,7 @@
 using System.IO;
 using System.Text.Json;
 
-namespace FractionArrayApp
+namespace Lesson13
 {
     public class Fraction
     {
